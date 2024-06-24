@@ -164,10 +164,10 @@ const docRefData = [
     {docName: "Synthese Archi", docRef : "00949_16_01952", qiaRef : "00949_16_03918"},
     {docName: "DIAG Messagerie", docRef : "966527219A", qiaRef : ""},
     {docName: "SI Alert", docRef : "01255_08_00390", qiaRef : "01255_10_01507"},
+    {docName: "WKPI", docRef : "01272_20_02392", qiaRef : ""},
     {docName: "Test Book Writing Guide", docRef : "00952_09_00540", qiaRef : ""},
     {docName: "Analyse de Entrant", docRef : "01272_19_02283", qiaRef : ""},
     {docName: "Checklist DC Review BSI", docRef : "01642_21_00222", qiaRef : ""},
-    {docName: "WKPI", docRef : "01272_20_02392", qiaRef : ""},
     {docName: "Macro Updation", docRef : "01272_18_00034", qiaRef : ""},
     {docName: "HED SUIIVI", docRef : "01272_20_02108", qiaRef : ""},
 
